@@ -1,0 +1,13 @@
+.top{
+    background-color: aqua;
+    display: flex;
+    width: auto;
+}
+
+.top p{
+    color: red;
+}
+
+.top h1{
+    color: brown;
+}
